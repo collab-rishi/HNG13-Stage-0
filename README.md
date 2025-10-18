@@ -90,6 +90,12 @@ http://localhost:{your_port}/me
 
 - Response is returned as application/json.
 
+
+## 📚 Blog Post
+
+I wrote a detailed blog post about building this project, including my learnings and deployment process:  
+[Read it on Dev.to](https://dev.to/rishi_00000000000000/i-built-a-profile-api-that-returns-random-cat-facts-359h)
+
 ## 💡 What I Learned
 
 This project reinforced:
